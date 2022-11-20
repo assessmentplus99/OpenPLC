@@ -4,7 +4,7 @@ ___
 ## Compiling code
 The code was written inside the OpenPLC IDE or engineering software on a Windows device, meaning if your using linux you will need to change the code
 
-## PLC Code explanations ![#c5f015] Recommended
+## PLC Code explanations - Recommended
 code walkthrough is with [YouTube](https://youtu.be/6Z2IyAzp33A) 
 
 ## Step Engine Boolean Array Matrix 
